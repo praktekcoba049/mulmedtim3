@@ -1,0 +1,221 @@
+
+.judul{
+background: color #22577e; ;
+text-align: center;
+width: 55%;
+margin-left: 210px;
+margin-right: 240px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 70px;
+font-weight: bold;
+color:azure;
+text-shadow: 5px 5px #ff0000;
+}
+
+.judul2{
+    padding: 0px;
+    background: color #22577e; ;
+    text-align: center;
+    margin-left: 260px;
+    margin-right: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:70px;
+    font-weight: bold;
+    color:azure;
+    text-shadow: 5px 5px #ff0000;
+    }
+
+.penjelasan{
+    inline-size: 300px;
+    overflow-wrap: break-word;
+    padding:15px;
+    margin-top:100px;
+    background: color #22577e; ;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    font-weight: bold;
+    color:azure; 
+    text-shadow: 3px 3px rosybrown;
+
+}
+
+.penjelasan2{
+    inline-size: 400px;
+    overflow-wrap: break-word;
+    padding:20px;
+    margin-bottom: 50px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    font-weight:thin;
+    color:azure; 
+}
+
+
+  .judulcara {
+    text-align: center;
+    inline-size: 320px;
+    background-color: rgba(255,255,255,0.2);
+      padding-top:20px;
+      padding-bottom:20px;
+
+    overflow-wrap: break-word;
+    color:whitesmoke;
+    height: auto;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 10px 10px #22577e;
+    text-shadow: 3px 3px #516beb;
+    }
+
+    
+
+    .judulcara1 {
+      text-align: left;
+      inline-size: 400px;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        overflow-wrap: break-word;
+      color:whitesmoke;
+      margin-bottom: 0px;
+      margin-left: 300.667px;
+      margin-right: 422.667px;
+      margin-top: 0px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      font-weight: bold;
+      }
+      
+      .column {
+        flex: 33.33%;
+        padding:5px;
+      }
+      
+      .row {
+        display: flex;
+      }
+
+      .boxcara{
+        margin: 10px;
+        width:auto;
+        height:auto;
+        padding:1px;
+        box-shadow: 5px 5px #22577e;
+        background-color: rgba(0,0,0,0.7);
+      }
+      
+
+      .boxgambar {
+        margin-top: 65px;
+    margin-right:55px ;
+    margin-bottom: 20px;
+    margin-left: 60px;
+        float: left;
+        height: 130px;
+        width: 130px;
+        padding:1px;  
+      }
+
+      .penjelasancara{
+        inline-size: 300px;
+        margin-bottom :0px;
+        margin-left :457.667px;
+        margin-right :457.667px;
+        margin-top :0px;
+        padding:15px;
+        background: color #22577e; ;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:25px;
+        font-weight: bold;
+        color: azure; 
+    }
+
+    .penjelasancarakiri{
+      inline-size: 300px;
+      margin-bottom :0px;
+      margin-left :457.667px;
+      margin-right :457.667px;
+      margin-top :0px;
+      padding:15px;
+      background: color #22577e; ;
+      text-align: left;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size:25px;
+      font-weight: bold;
+      color: azure; 
+  }
+  .penjelasancarakanan{
+    inline-size: 300px;
+    margin-bottom :0px;
+    margin-left :457.667px;
+    margin-right :457.667px;
+    margin-top :0px;
+    padding:15px;
+    background: color #22577e; ;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    font-weight: bold;
+    color: azure; 
+}
+
+    .tanya{
+      inline-size: 300px;
+      background-color: chocolate ;
+      padding-top:20px;
+      padding-bottom:20px;
+      overflow-wrap: break-word;
+      margin-bottom :20px;
+      margin-left :457.667px;
+      margin-right :457.667px;
+      margin-top :20px;
+      padding:15px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size:25px;
+      font-weight: bold;
+      color: azure; 
+      text-shadow: 3px 3px rosybrown;
+      box-shadow: 10px 10px rgba(255,255,255,0.2);
+  }
+      
+  .tanya2{
+    inline-size: 300px;
+    background-color: grey ;
+    padding-top:20px;
+    padding-bottom:20px;
+    overflow-wrap: break-word;
+    margin-bottom :20px;
+    margin-left :457.667px;
+    margin-right :457.667px;
+    margin-top :20px;
+    padding:15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    font-weight: bold;
+    color: azure; 
+    text-shadow: 3px 3px rosybrown;
+    box-shadow: 10px 10px rgba(255,255,255,0.2);
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 27px;
+  font-weight: bold;
+  color: whitesmoke;
+}
